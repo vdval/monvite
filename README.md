@@ -19,11 +19,13 @@ N'oubliez pas de mettre à jour npm aussi... En plus de Node.js bien sur mais ç
 
 Si je place cela sur Github, c'est avant tout pour moi mais aussi pour rendre service. 
 
-Donc on utilise vite et on choisit comme biblio React et comme langage Javascript à l'installation (quand ça le demande).
+Donc on utilise Vite et on choisit comme biblio React et comme langage Javascript à l'installation (quand ça le demande).
 Perso, je travaille avec plusieurs terminaux dont git bash.
 
 On ouvre le terminal avec les droits d'administrateur si possible. A un moment ou à un autre, ça va finir par coincer de toute façon. On se positionne sur le terminal Windows, clic droit, sélectionner Windows Terminal sans cliquer, clic droit et exécuter en tant qu'administrateur.
 J'ai personnalisé mon Terminal Windows il y a belle lurette, on l'a dans les dépôts ici-même. Je regarderai s'il n'est pas obsolète (deprecated :p)
+
+On a les deux logos au final sur localhost avec une petite phrase de bienvenue !
 
 Suite au prochain numéro...
 
